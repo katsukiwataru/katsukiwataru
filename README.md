@@ -1,5 +1,5 @@
 # Wataru Katsuki
-Hi I'm a University student in Tokyo👨🏻‍🎓<br>
+Hi I'm a university student in Tokyo👨🏻‍🎓<br>
 Web Front Developer💻<br>
 Fukui(18)🏠→Tokyo(21)🗼<br>
 
