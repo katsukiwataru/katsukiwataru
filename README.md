@@ -1,7 +1,7 @@
 # Wataru Katsuki
 Hi I'm a university student in Tokyo👨🏻‍🎓<br>
 Web Front Developer💻<br>
-Fukui(18)🏠→Tokyo(21)🗼<br>
+Fukui🏠→Tokyo🗼<br>
 
 ## Skill
 - JavaScript
